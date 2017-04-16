@@ -6,9 +6,9 @@
 
 > 该项目采用以下技术，点击对应链接，了解对应技术
 
-- 整体项目基于[Vue 2.0]()
-- 环境搭建基于[vue-cli]()
-- 样式采用[scss]()编写
+- 整体项目基于[Vue 2.0](https://cn.vuejs.org/)
+- 环境搭建基于[vue-cli](https://github.com/vuejs/vue-cli)
+- 样式采用[sass](http://sass-lang.com/)编写
 
 ### 运行
 
